@@ -5,3 +5,8 @@ Gestion des formations d'un centre de formation on utilisant les technologies de
 - Modifications des formations 
 - Affichage des formations 
 - Suppression des formations 
+* Les BNF :
+-Compatibilité
+-Intégralité
+-Sécurité
+-Disponibilité
